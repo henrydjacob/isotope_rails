@@ -8,8 +8,8 @@ Gem::Specification.new do |s|
   s.authors     = ["henry.jacob"]
   s.email       = ["henrydjacob@gmail.com"]
   s.homepage    = ""
-  s.summary     = %q{TODO: Write a gem summary}
-  s.description = %q{TODO: Write a gem description}
+  s.summary     = %q{Get up and running with isotope in seconds}
+  s.description = %q{Use isotope jquery plugin in seconds}
 
   s.rubyforge_project = "isotope_rails"
 
