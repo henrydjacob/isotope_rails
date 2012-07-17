@@ -1,0 +1,5 @@
+//= require 'isotope/fake-element'
+//= require 'isotope/jquery.ba-bbq.min'
+//= require 'isotope/jquery.infinitescroll.min'
+//= require 'isotope/jquery.isotope.min'
+//= require 'isotope/make-big-graph-projects'
